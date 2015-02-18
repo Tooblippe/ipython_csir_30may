@@ -1,4 +1,5 @@
 ### Reproducible interactive computing using Python:
+## And it is awesome
 
 ![](eon.png)
 ![](csir.png)
